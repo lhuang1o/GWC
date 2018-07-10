@@ -1,0 +1,13 @@
+/*Webpage stylesheet*/
+
+h1,h3{
+  color:#99ccff;
+  /*font size 12 px;*/
+  font-family: 'Gaegu', cursive, serif;
+}
+#Fun{
+  color:blue;
+}
+.green{
+  color:green;
+}
